@@ -1,4 +1,4 @@
-# 🎯 Smart Content Engagement Algorithm
+# 🎯 Content Recommendation Algorithm
 
 ## 📝 Description
 The Smart Content Engagement Algorithm is an intelligent content recommendation system that analyzes user interaction patterns to determine content preferences and engagement levels. Similar to platforms like Instagram and YouTube, this algorithm calculates user engagement scores based on multiple interaction metrics to provide personalized content suggestions.
