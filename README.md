@@ -56,18 +56,8 @@ The algorithm processes user engagement data through several key metrics:
   [
     {
         "user_id": string,
-        "hashtags": [
-            [
-              string
-            ],
-            [
-              string
-            ]
-        ],
-        "engagement_score": [
-            float,
-            float
-        ]
+        "hashtags": [[string],[string]],
+        "engagement_score": [float,float]
     }
   ]
   ```
